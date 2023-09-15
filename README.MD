@@ -1,12 +1,13 @@
 ### <h1>E-Commerce API</h1>
 
 An API that contains: <br>
-*register,login, logout functionality. (using Json Web Token and cookies) <br>
-*admin role and restriction functions for normal users <br>
-*CRUD functions and special routes for User, Product, Review, and Order models. <br>
-*documentation created with <a href="https://github.com/thedevsaddam/docgen">docgen</a> <br>
-*security with "helmet", "express-rate-limiter", "xss-clean", "cors", and "express-mongo-sanitize".
- 
+<ul>
+<li>register,login, logout functionality. (using Json Web Token and cookies)</li><br>
+<li>admin role and restriction functions for normal users</li> <br>
+<li>CRUD functions and special routes for User, Product, Review, and Order models.</li> <br>
+<li>documentation created with <a href="https://github.com/thedevsaddam/docgen">docgen</a></li> <br>
+<li>security with "helmet", "express-rate-limiter", "xss-clean", "cors", and "express-mongo-sanitize".</li>
+</ul
 <h3><a href="https://ecommerceapi-zwqi.onrender.com/">documentation link</a></h3>
 
 ### <h2>Setup </h2>
